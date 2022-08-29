@@ -1,0 +1,7 @@
+input:focus{
+    outline: none;
+    color: aliceblue;
+}
+#home{
+    height: 100vh;
+}
